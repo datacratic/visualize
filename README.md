@@ -8,7 +8,7 @@ This is a fairly simple web application that is meant to make it easy to match u
 ##Demo and more info
 
 
-There is a demo installation of this sytem at http://dev.recoset.com/visualize and a blog post at TBD.
+There is a demo installation of this sytem at TBD and a blog post at TBD.
 
 ##Security Note
 
